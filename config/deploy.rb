@@ -57,7 +57,12 @@ task :deploy do
     invoke :'bundle:install'
     #invoke :'rails:assets_precompile'
     invoke :'deploy:cleanup'
-    command %{rm -rf /home/devops/_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /home/devops/_site}
+
+     on :launch do
+       command %{rm -rf /home/devops/_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /home/devops/_site}
+       command %{echo "Site moved to production"}
+     end
+
    
   end
 

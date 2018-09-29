@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端开发规范2"
+title: "前端开发规范3"
 author: "Dominic"
 group: "前端"
 tag: "开发规范"
