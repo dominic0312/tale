@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Example Content"
+title: "前端设计规范"
 author: "Chester"
 ---
 

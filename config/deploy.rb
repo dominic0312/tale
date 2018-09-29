@@ -1,3 +1,4 @@
+require 'mina/bundler'
 require 'mina/rails'
 require 'mina/git'
 # require 'mina/rbenv'  # for rbenv support. (https://rbenv.org)
@@ -14,6 +15,9 @@ set :domain, 'gitserver'
 set :deploy_to, '/home/devops/docs_prod'
 set :repository, 'git@github.com:dominic0312/tale.git'
 set :branch, 'master'
+set :bundle_path, '/home/devops/docs_prod/bundle'
+set :shared_path,   "#{fetch(:deploy_to)}/shared"
+set :shared_dirs , fetch(:shared_dirs, []).push(fetch(:bundle_path))
 
 # Optional settings:
 set :user, 'devops'          # Username in the server to SSH to.
@@ -52,6 +56,7 @@ task :deploy do
     #invoke :'deploy:link_shared_paths'
     invoke :'bundle:install'
     #invoke :'rails:assets_precompile'
+    command %{rm -rf /home/devops/_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /home/devops/_site}
     invoke :'deploy:cleanup'
   end
 
