@@ -11,7 +11,7 @@ permalink: /about/
 
 * 后端开发工程师(PHP)的必读文档为[PHP后端开发准则][php-doc].
 * 前端开发工程师(WEB)的必读文档为[WEB前端开发准则][front-doc].
-* 设计师(UI)的必读文档为[wUI设计准则][ui-doc].
+* 设计师(UI)的必读文档为[UI设计准则][ui-doc].
 
 
 [php-doc]: http://127.0.0.1
