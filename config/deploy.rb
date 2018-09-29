@@ -59,6 +59,7 @@ task :deploy do
     invoke :'deploy:cleanup'
 
      on :launch do
+       invoke :'rvm:use', 'ruby-2.4.2@default'
        command %{rm -rf /home/devops/_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /home/devops/_site}
        command %{echo "Site moved to production"}
      end
