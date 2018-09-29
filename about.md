@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "使用说明"
+author: "Dominic"
 permalink: /about/
 ---
+> 本文档库中的文档为三牛犇的研发员工提供研发活动的的准则参考, 需要相关员工仔细阅读并认真执行.
+在新员工入职时需要向新员工宣导; 在项目完结时, 需要按照此准则评估项目质量.
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+* 后端开发工程师(PHP)的必读文档为[PHP后端开发准则][php-doc].
+* 前端开发工程师(WEB)的必读文档为[WEB前端开发准则][front-doc].
+* 设计师(UI)的必读文档为[wUI设计准则][ui-doc].
 
-Thanks for reading!
+
+[php-doc]: http://127.0.0.1
+[front-doc]: http://127.0.0.1
+[ui-doc]: http://127.0.0.1
+
+
+
+

@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          三牛犇文档库
+description:    "规范,协同,高效"
+#baseurl:        "/tale"
+url:            "http://docs.sanniuben.com"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Dominic
+  url:          http://docs.sanniuben.com
+  email:        dominic0312@126.com
 
 # Build settings
 markdown:       kramdown
