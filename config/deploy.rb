@@ -56,12 +56,13 @@ task :deploy do
     #invoke :'deploy:link_shared_paths'
     invoke :'bundle:install'
     #invoke :'rails:assets_precompile'
-    command %{rm -rf /home/devops/_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /home/devops/_site}
     invoke :'deploy:cleanup'
+    command %{rm -rf /home/devops/_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /home/devops/_site}
+   
   end
 
   # you can use `run :local` to run tasks on local machine before of after the deploy scripts
-  # run(:local){ say 'done' }
+  #run(:local){ say 'Deploy Done!' }
 end
 
 # For help in making your deploy script, see the Mina documentation:
