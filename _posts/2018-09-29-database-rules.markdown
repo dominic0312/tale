@@ -4,6 +4,7 @@ layout: post
 author: Dominic
 group: "后端"
 tag: "DATABASE"
+permalink: /database/
 ---
 
 # 规范索引

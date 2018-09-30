@@ -9,14 +9,15 @@ permalink: /about/
 
 
 
-* 后端开发工程师(PHP)的必读文档为[PHP后端开发准则][php-doc].
+* 后端开发工程师(PHP)的必读文档为[PHP后端开发准则][php-doc], 以及[数据库设计与使用规范][database-doc]
 * 前端开发工程师(WEB)的必读文档为[WEB前端开发准则][front-doc].
 * 设计师(UI)的必读文档为[UI设计准则][ui-doc].
 
 
-[php-doc]: http://127.0.0.1
-[front-doc]: http://127.0.0.1
-[ui-doc]: http://127.0.0.1
+[php-doc]: http://docs.sanniuben.com/back_end
+[database-doc]: http://docs.sanniuben.com/database
+[front-doc]: http://docs.sanniuben.com/front_end
+[ui-doc]: http://docs.sanniuben.com/ui_base
 
 
 

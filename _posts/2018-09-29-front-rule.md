@@ -4,6 +4,7 @@ title: "前端开发规范"
 author: "Dominic"
 group: "前端"
 tag: "开发规范"
+permalink: /front_end/
 ---
 
 # 规范索引

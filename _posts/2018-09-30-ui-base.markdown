@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "UI设计规范"
+author: "Dominic"
+group: "前端"
+tag: "UI设计"
+permalink: /ui_base/
+---
+
+# 规范索引
+- 需要规范的UI设计要素
+- 设计稿的格式与使用方式
+- 图标的最佳实践
+- 布局的最佳实践
