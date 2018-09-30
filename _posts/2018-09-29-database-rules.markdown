@@ -5,6 +5,7 @@ author: Dominic
 group: "后端"
 tag: "DATABASE"
 permalink: /database/
+img_url: "/assets/mysql.jpg"
 ---
 
 # 规范索引

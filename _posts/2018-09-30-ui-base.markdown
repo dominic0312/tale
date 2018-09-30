@@ -5,6 +5,7 @@ author: "Dominic"
 group: "前端"
 tag: "UI设计"
 permalink: /ui_base/
+img_url: "/assets/timg.jpeg"
 ---
 
 # 规范索引

@@ -3,8 +3,9 @@ layout: post
 title: "前端开发规范"
 author: "Dominic"
 group: "前端"
-tag: "开发规范"
+tag: "JS&CSS"
 permalink: /front_end/
+img_url: "/assets/jquery.jpeg"
 ---
 
 # 规范索引
