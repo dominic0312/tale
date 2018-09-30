@@ -36,7 +36,7 @@ task :environment do
   # invoke :'rbenv:load'
 
   # For those using RVM, use this to load an RVM version@gemset.
-  invoke :'rvm:use', 'ruby-2.4.2@default'
+  invoke :'rvm:use', 'ruby-2.4.4@default'
 end
 
 # Put any custom commands you need to run at setup
@@ -59,8 +59,8 @@ task :deploy do
     invoke :'deploy:cleanup'
 
      on :launch do
-       invoke :'rvm:use', 'ruby-2.4.2@default'
-       command %{rm -rf /home/devops/_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /home/devops/_site}
+       invoke :'rvm:use', 'ruby-2.4.4@default'
+       command %{rm -rf /www/doc_site && jekyll build && cp -r /home/devops/docs_prod/current/_site /www/doc_site}
        command %{echo "Site moved to production"}
      end
 
