@@ -54,6 +54,7 @@ task :deploy do
     # instance of your project.
     invoke :'git:clone'
     #invoke :'deploy:link_shared_paths'
+    invoke :'rvm:use', 'ruby-2.4.4@default'
     invoke :'bundle:install'
     #invoke :'rails:assets_precompile'
     invoke :'deploy:cleanup'
