@@ -15,6 +15,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2018-09-29-front-rule.md",
+			"settings":
+			{
+				"buffer_size": 1431,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2018-10-08-git-rule.markdown",
+			"settings":
+			{
+				"buffer_size": 939,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -27,6 +45,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"new",
+				"Jekyll: New post"
+			],
 			[
 				"post",
 				"Jekyll: New post"
@@ -84,10 +106,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/dominic/docs/tale"
+		"/Users/dominic/docs/tale",
+		"/Users/dominic/docs/tale/_posts"
 	],
 	"file_history":
 	[
+		"/Users/dominic/docs/tale/_posts/2018-10-08-git-rule.markdown",
 		"/Users/dominic/docs/docs/_site/about/index.html",
 		"/Users/dominic/docs/docs/_posts/2018-09-29-前端规范.markdown",
 		"/Users/dominic/docs/docs/_posts/2018-09-29-welcome-to-jekyll.markdown",
@@ -214,8 +238,7 @@
 		"/Users/dominic/Documents/secret_key_tools_RSA_macosx/rsa_private_key.pem",
 		"/Users/dominic/Desktop/q_sign.txt",
 		"/Users/dominic/house/apache-tomcat-8.0.21/conf/server.xml",
-		"/Users/dominic/Downloads/pooul_rsa_private.pem",
-		"/Users/dominic/Desktop/yf.txt"
+		"/Users/dominic/Downloads/pooul_rsa_private.pem"
 	],
 	"find":
 	{
@@ -250,8 +273,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2018-09-29-front-rule.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1426,
+								1426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 278.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2018-10-08-git-rule.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
