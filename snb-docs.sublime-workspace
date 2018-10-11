@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Appl",
+				"ApplyResource"
+			],
+			[
+				"金山",
+				"金山区"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"post",
+				"Jekyll: New post"
+			],
+			[
+				"route:list",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"forma",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"phpfmt:",
+				"phpfmt: format now"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dominic/docs/tale"
+	],
+	"file_history":
+	[
+		"/Users/dominic/docs/docs/_site/about/index.html",
+		"/Users/dominic/docs/docs/_posts/2018-09-29-前端规范.markdown",
+		"/Users/dominic/docs/docs/_posts/2018-09-29-welcome-to-jekyll.markdown",
+		"/Users/dominic/docs/docs/about.md",
+		"/Users/dominic/docs/docs/_site/index.html",
+		"/Users/dominic/docs/docs/index.html",
+		"/Users/dominic/docs/docs/_posts/2018-09-29-dfd.markdown",
+		"/Users/dominic/Documents/辉龙",
+		"/Users/dominic/Downloads/第一會所新片@SIS001@(恋する花嫁DX)(AVKH-070).torrent",
+		"/Users/dominic/laravel/basic/vendor/laravel/passport/src/PassportServiceProvider.php",
+		"/Users/dominic/laravel/basic/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php",
+		"/Users/dominic/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dominic/laravel/basic/app/Apply.php",
+		"/Users/dominic/Library/Application Support/Sublime Text 3/Packages/Laravel-Cheat-Sheet/snippets/Eloquent.sublime-settings",
+		"/Users/dominic/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/Users/dominic/Library/Application Support/Sublime Text 3/Packages/phpfmt/Default.sublime-keymap",
+		"/Users/dominic/laravel/basic/vendor/ajthinking/tinx/src/Models/Model.php",
+		"/Users/dominic/Documents/思维导图说明.txt",
+		"/Users/dominic/Desktop/运营review0912",
+		"/Users/dominic/Desktop/student.txt",
+		"/Users/dominic/Desktop/github_token",
+		"/Users/dominic/Desktop/sanniubenprojects/ebuff0907",
+		"/Users/dominic/Desktop/mvn_local",
+		"/Users/dominic/Documents/sublime_projects/sanniuben_auth",
+		"/Users/dominic/Desktop/temp",
+		"/Users/dominic/Desktop/error-0903.txt",
+		"/Users/dominic/Desktop/comments.txt",
+		"/Users/dominic/Documents/sublime_projects/phper",
+		"/Users/dominic/Desktop/pc",
+		"/Users/dominic/Desktop/php-doc",
+		"/Users/dominic/Documents/1.UPS和通用对账系统的文档.question",
+		"/Users/dominic/Documents/对账数据校正任务.txt",
+		"/Users/dominic/Documents/需要拉取的供应商ID.txt",
+		"/Users/dominic/Documents/answer0614",
+		"/Users/dominic/Documents/shijiazhuang0614",
+		"/Users/dominic/Documents/海关申报表的全集",
+		"/Users/dominic/Documents/question0608",
+		"/Users/dominic/Documents/账务金融组-全员评测/岗位说明书-V5.0-0414-M3.xml",
+		"/Users/dominic/Documents/0511问题回复/0511问题回复.txt",
+		"/Users/dominic/Documents/huirong_problems_0510",
+		"/Users/dominic/Documents/test.js",
+		"/Users/dominic/Documents/worker_processes",
+		"/Users/dominic/Documents/134724487793302311",
+		"/Users/dominic/Documents/winit_plugin/progress.js",
+		"/Users/dominic/.ssh/id_rsa.pub",
+		"/Users/dominic/Movies/apexmovie/settings.xml",
+		"/Users/dominic/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/cc60f6136cb9d81ee201aa730f57b070/Message/MessageTemp/32cf2484a100b87a51fe7b1bdb241cc5/File/id_rsa.pub",
+		"/Users/dominic/Documents/winit资料/winit系统拓扑/系统简称字典.txt",
+		"/Users/dominic/Downloads/网关支付文档.md",
+		"/Users/dominic/Desktop/测试服务器(支付)",
+		"/Users/dominic/Desktop/big.one.txt",
+		"/Users/dominic/Documents/code/installment/successmsg.html",
+		"/Users/dominic/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/cc60f6136cb9d81ee201aa730f57b070/Message/MessageTemp/ff8c777f7b1413dca6bd1decbc9f6c2c/File/fundshare证书/fundshare.cer",
+		"/Users/dominic/Desktop/eeos",
+		"/Users/dominic/Desktop/qiqing",
+		"/Users/dominic/Desktop/heihudie",
+		"/Users/dominic/Desktop/gonggong",
+		"/Users/dominic/api_rails/keys/client_private.pem",
+		"/Users/dominic/Desktop/文案-王潜行.txt",
+		"/Users/dominic/Desktop/zy.txt",
+		"/Users/dominic/Desktop/pingan",
+		"/Users/dominic/Desktop/testcase.txt",
+		"/Users/dominic/Desktop/merch.txt",
+		"/Users/dominic/Desktop/password",
+		"/Users/dominic/Desktop/pass",
+		"/Users/dominic/Desktop/文档与demo-1/代付/dbli_rsa_private_key.pem",
+		"/Users/dominic/Desktop/1.D0      问题解决 罗杰，王，周四",
+		"/Users/dominic/Desktop/1. wechat_micro的订单状态修改和向ELK传送成功wechat_micro订单。",
+		"/Users/dominic/Desktop/美多鲜商户编号：59420582ffea0e0d94dd9712",
+		"/Users/dominic/Desktop/代理商后台需求",
+		"/Users/dominic/Desktop/untitled",
+		"/Users/dominic/Downloads/checklist",
+		"/Users/dominic/Desktop/admin 生产",
+		"/Users/dominic/Downloads/wget --no-cookies --no-check-certificate --header",
+		"/Users/dominic/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/cc60f6136cb9d81ee201aa730f57b070/Message/MessageTemp/cc60f6136cb9d81ee201aa730f57b070/File/id_rsa.pub",
+		"/Users/dominic/Desktop/文档与demo/untitled",
+		"/Users/dominic/Desktop/充值",
+		"/Users/dominic/Desktop/用户民生",
+		"/Users/dominic/Desktop/http方法: post",
+		"/Users/dominic/Desktop/用户信息test1",
+		"/Users/dominic/Desktop/用户信息7",
+		"/Users/dominic/Desktop/yonghu 8",
+		"/Users/dominic/Desktop/1 法人用户2",
+		"/Users/dominic/Desktop/法人用户1",
+		"/Users/dominic/api_rails/calib_files/FundBala_5068_CMBC.20170507",
+		"/Users/dominic/Documents/test_p.pem",
+		"/Users/dominic/Documents/test.pem",
+		"/Users/dominic/Documents/pubkey.pem",
+		"/Users/dominic/Documents/pkcs8.pem",
+		"/Users/dominic/api_rails/calib_files/FundDetail_5068_CMBC.20170506",
+		"/Users/dominic/api_rails/calib_files/FundBala_5068_CMBC.20170506",
+		"/Users/dominic/api_rails/calib_files/FundDetail_5068_CMBC.20170505",
+		"/Users/dominic/api_rails/calib_files/FundBala_5068_CMBC.20170505",
+		"/Users/dominic/api_rails/calib_files/FundBala_5068_CMBC.20170504",
+		"/Users/dominic/api_rails/calib_files/FundBala_CMBC_5068.20170503",
+		"/Users/dominic/api_rails/calib_files/FundDetail_5068_CMBC.20170504",
+		"/Users/dominic/Desktop/bb",
+		"/Users/dominic/api_rails/calib_files/FundBala_5068_CMBC.20170503",
+		"/Users/dominic/Desktop/用户信息2",
+		"/Users/dominic/h5_api/calib_files/FundBala_5068_CMBC.20170501",
+		"/Users/dominic/Desktop/用户信息3",
+		"/Users/dominic/Desktop/FundDetail_5068_CMBC.20170502",
+		"/Users/dominic/Desktop/question.txt",
+		"/Users/dominic/Desktop/ds",
+		"/Users/dominic/Desktop/用户信息4",
+		"/Users/dominic/Desktop/dd",
+		"/Users/dominic/Desktop/FundBala_5068_CMBC.20170428",
+		"/Users/dominic/Desktop/duizhang",
+		"/Users/dominic/Desktop/FundDetail_5068_CMBC.20170414",
+		"/Users/dominic/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/cc60f6136cb9d81ee201aa730f57b070/Message/MessageTemp/c437595f7bf4297d5bdc1b81a2ddfd19/OpenData/平台向民生发送对账文件生成完毕通知的示例代码.dat",
+		"/Users/dominic/Desktop/平台向民生发送对账文件生成完毕通知的示例代码",
+		"/Users/dominic/Desktop/用户信息5",
+		"/Users/dominic/Desktop/datatemp",
+		"/Users/dominic/Desktop/用户信息6",
+		"/Users/dominic/Desktop/用户信息1",
+		"/Users/dominic/Desktop/h1",
+		"/Users/dominic/Desktop/Eye.config do",
+		"/Users/dominic/Desktop/index.html",
+		"/Users/dominic/Downloads/echarts.simple.min.js",
+		"/Users/dominic/Downloads/bgate/color-admin-v2.1/admin/html/assets/js/login-v2.demo.min.js",
+		"/Users/dominic/Downloads/bgate/color-admin-v2.1/admin/html/assets/js/apps.min.js",
+		"/Users/dominic/Documents/AwesomeProject/index.ios.js",
+		"/Users/dominic/Downloads/书柜秘籍/书柜秘籍/书柜秘籍/秀色5/死亡快感.txt",
+		"/Users/dominic/Documents/secret_key_tools_RSA_macosx/rsa_private_key.pem",
+		"/Users/dominic/Desktop/q_sign.txt",
+		"/Users/dominic/house/apache-tomcat-8.0.21/conf/server.xml",
+		"/Users/dominic/Downloads/pooul_rsa_private.pem",
+		"/Users/dominic/Desktop/yf.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "snb-docs.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"config/app.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
