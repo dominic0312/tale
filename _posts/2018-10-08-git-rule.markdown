@@ -17,7 +17,7 @@ img_url: "/assets/git.jpeg"
 
 ## 使用三牛犇私有gitlab服务的步骤
 
-1. 在[git.sanniuben.com](git.sanniuben.com)上注册，并向管理员(王潜行)申请开通权限.
+1. 在[git.sanniuben.com](http://git.sanniuben.com)上注册，并向管理员(王潜行)申请开通权限.
 
 2. 使用git命令行中的ssh工具生成公钥(建议使用Git Bash自带的ssh工具, 方法请自行百度).
 
