@@ -20,7 +20,7 @@ Centos安装宝塔面板命令(命令只有一条)
 http://download.bt.cn/install/install.sh && sh install.sh {% endhighlight %}
 
 
-C. 记录宝塔面板的网址,用户名,密码,并将这些密码邮件发送给#配置管理员#(即管理root密码的人员)，
+C. 记录宝塔面板的网址,用户名,密码,并将这些密码邮件发送给#配置管理员(即管理root密码的人员)，
 配置管理员应该以安全且有条理的方式保存这些密码.
 
 D. 使用宝塔面板安装php, mysql, redis, nginx, apache等软件，设置网站和数据库.
